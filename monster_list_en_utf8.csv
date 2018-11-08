@@ -6,8 +6,8 @@ Id,Name,Type
 4,Charmander,
 5,Charmeleon,
 6,Charizard,
-6,Charizard,Mega X
-6,Charizard,Mega Y
+6,Charizard,MegaX
+6,Charizard,MegaY
 7,Squirtle,
 8,Wartortle,
 9,Blastoise,
@@ -180,8 +180,8 @@ Id,Name,Type
 148,Dragonair,
 149,Dragonite,
 150,Mewtwo,
-150,Mewtwo,Mega X
-150,Mewtwo,Mega Y
+150,Mewtwo,MegaX
+150,Mewtwo,MegaY
 151,Mew,
 152,Chikorita,
 153,Bayleef,
